@@ -1,0 +1,11 @@
+run:
+Print an:
+1) Even number to continue;
+2) Odd number to see an error;
+3) 999 to exit program.
+10
+Nice, go for more...
+1
+Error 228; That's an Odd number, try with Even one...
+21
+Error 228; That's an Odd number, try with Even one...
